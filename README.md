@@ -1,4 +1,9 @@
 # file-upload-front
+https://scotch.io/tutorials/how-to-handle-file-uploads-in-vue-2
+
+another example:
+https://vuejsexamples.com/vue-js-component-for-adding-a-file-upload-button-for-vuetify/
+
 
 ## Project setup
 ```
